@@ -6,7 +6,7 @@ Welcome to the course! You can launch and run each interactive notebook directly
 * **Lecture 1: Linux Fundamentals**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adeelurrahman/LHC_School_2026_Computing_Tutorial/blob/main/Session_1_Linux_Basics2.ipynb) 
 
-* **Lecture 2: A Glance on C++ constructs**  
+* **Lecture 2: A Glance on C++ Constructs**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adeelurrahman/LHC_School_2026_Computing_Tutorial/blob/main/Session_2_CPP_Basics2.ipynb)
 
 * **Lecture 3: A Quick Introduction to Python Programming**  
